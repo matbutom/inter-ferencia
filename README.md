@@ -16,10 +16,7 @@ El sistema no muestra el video de la cámara. Muestra únicamente la diferencia 
 
 ---
 
-<video width="100%" controls>
-  <source src="/assets/inter-ferencia-01.mov" type="video/mov">
-  Tu navegador no soporta el video.
-</video>
+https://github.com/user-attachments/assets/ec7ff0ff-68e1-4fc7-9348-adbf868c6863
 
 ## Requisitos de hardware
 

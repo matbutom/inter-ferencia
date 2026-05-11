@@ -8,11 +8,11 @@ Una instalación sonora y visual que convierte el cuerpo humano en instrumento. 
 
 ## Concepto
 
-*inter/ferencia* toma su nombre del doble sentido de la palabra: la interferencia como fenómeno físico —ondas que se superponen, señales que se cruzan— y como acto relacional —intervenir el espacio del otro, ser intervenido sin saberlo.
+*inter/ferencia* toma su nombre del doble sentido de la palabra: la interferencia como fenómeno físico, ondas que se superponen, señales que se cruzan, y como acto relacional;intervenir el espacio del otro, ser intervenido sin saberlo.
 
 Montada sobre una televisión de tubo en un corredor universitario de alto tráfico, la obra opera en el margen de la percepción. Las personas no buscan interactuar: pasan. Pero al pasar, componen. Su cuerpo se convierte en partitura involuntaria; sus movimientos, en notas de una escala pentatónica que suena y decae.
 
-El sistema no muestra el video de la cámara. Muestra únicamente la diferencia entre el fondo vacío y la presencia del cuerpo, traducida a caracteres ASCII de distintos tamaños. Lo que queda en pantalla no es una imagen de la persona —es la huella de su paso.
+El sistema no muestra el video de la cámara. Muestra únicamente la diferencia entre el fondo vacío y la presencia del cuerpo, traducida a caracteres ASCII de distintos tamaños. Lo que queda en pantalla no es una imagen de la persona, es la huella de su paso.
 
 ---
 

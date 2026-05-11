@@ -1,5 +1,7 @@
 # inter/ferencia
 
+## Proyecto hecho por Mateo Arce y Janis Sepúlveda
+
 **Instalación de arte interactivo — Processing + webcam + televisión de tubo**
 
 Una instalación sonora y visual que convierte el cuerpo humano en instrumento. Seis barras verticales invisibles atraviesan el espacio de la pantalla. Cuando una persona pasa frente a la cámara, su silueta —renderizada en caracteres ASCII— colisiona con esas barras y genera sonido. La obra no requiere instrucciones: la presencia es suficiente.
